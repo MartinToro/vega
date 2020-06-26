@@ -1,3 +1,4 @@
+/*
 var tape = require('tape'),
     util = require('vega-util'),
     vega = require('vega-dataflow'),
@@ -244,3 +245,5 @@ tape('Label performs label layout with base mark reactive geometry', function(t)
 
   t.end();
 });
+
+*/
